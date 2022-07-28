@@ -1,0 +1,16 @@
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.exe
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.deps.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.runtimeconfig.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.runtimeconfig.dev.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\ref\chapterTwo.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\bin\Debug\net5.0\chapterTwo.pdb
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.csproj.AssemblyReference.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.AssemblyInfoInputs.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.AssemblyInfo.cs
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.csproj.CoreCompileInputs.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\ref\chapterTwo.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.pdb
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterTwo\obj\Debug\net5.0\chapterTwo.genruntimeconfig.cache
