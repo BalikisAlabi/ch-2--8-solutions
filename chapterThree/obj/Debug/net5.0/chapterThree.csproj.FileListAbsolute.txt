@@ -1,0 +1,16 @@
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.csproj.AssemblyReference.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.AssemblyInfoInputs.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.AssemblyInfo.cs
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.csproj.CoreCompileInputs.cache
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.exe
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.deps.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.runtimeconfig.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.runtimeconfig.dev.json
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\ref\chapterThree.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\bin\Debug\net5.0\chapterThree.pdb
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\ref\chapterThree.dll
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.pdb
+C:\Users\IBCIRCUIT\desktop\volumeOne\chapterThree\obj\Debug\net5.0\chapterThree.genruntimeconfig.cache
